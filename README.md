@@ -1,16 +1,26 @@
-## Hi there 👋
+# Welcome, I'm Olimjon =]
+<hr>
 
-<!--
-**olimjony/olimjony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> <p>
+>   <i>
+>     My name is Olimjon, and I am a Java developer. I'm learning new technology stacks. Now I'm working with microservices and focusing my skills on projects =]
+>   </i>
+> </p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=java,maven,gradle,postgres,mongodb,hibernate,spring,redis,bash" />
+    <img src="https://skillicons.dev/icons?i=jenkins,docker,k8s,aws,grafana,prometheus,kafka,git,postman" />
+  <img src="https://skillicons.dev/icons?i=debian, dotnet, js, react, vscode, cs, py, qt, vite" />
+</p>
+
+<h3 align="left">Contacts:</h3>
+<p align="left">
+<img align="left" src="https://skillicons.dev/icons?i=gmail,discord"/> 
+    <i> Gmail - commercialfl1s@gmail.com </i>
+    <br/>
+    <i> Discord - fl1s </i>
+</p>
+</div>
