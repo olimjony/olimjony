@@ -13,7 +13,7 @@
 <p align="left">
     <img src="https://skillicons.dev/icons?i=java,maven,gradle,postgres,mongodb,hibernate,spring,redis,bash" />
     <img src="https://skillicons.dev/icons?i=jenkins,docker,k8s,aws,grafana,prometheus,kafka,git,postman" />
-  <img src="https://skillicons.dev/icons?i=debian, dotnet, js, react, vscode, cs, py, qt, vite" />
+    <img src="https://skillicons.dev/icons?i=debian,dotnet,js,react,vscode,cs,py,qt,vite" />
 </p>
 
 <h3 align="left">Contacts:</h3>
