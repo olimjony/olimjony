@@ -11,8 +11,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-    <img src="https://skillicons.dev/icons?i=java,maven,gradle,postgres,mongodb,hibernate,spring,redis,bash" />
-    <img src="https://skillicons.dev/icons?i=jenkins,docker,k8s,aws,grafana,prometheus,kafka,git,postman" />
+    <img src="https://skillicons.dev/icons?i=java,maven,gradle,postgres,mongodb,hibernate,spring,redis,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=jenkins,docker,k8s,aws,grafana,prometheus,kafka,git,postman" /><br>
     <img src="https://skillicons.dev/icons?i=debian,dotnet,js,react,vscode,cs,py,qt,vite" />
 </p>
 
