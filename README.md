@@ -18,9 +18,9 @@
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
-<img align="left" src="https://skillicons.dev/icons?i=gmail,discord"/> 
-    <i> Gmail - commercialfl1s@gmail.com </i>
+<img align="left" src="https://skillicons.dev/icons?i=gmail"/> 
+    <i> Gmail - tabarzodaolimjon@gmail.com </i>
     <br/>
-    <i> Discord - fl1s </i>
+    <i> Telegram - @olimjon04082004 </i>
 </p>
 </div>
