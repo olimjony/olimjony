@@ -3,7 +3,7 @@
 
 > <p>
 >   <i>
->     My name is Olimjon, and I am a Java developer. I'm learning new technology stacks. Now I'm working with microservices and focusing my skills on projects =]
+>     My name is Olimjon, and I am a Fullstack, Devops, mainly Java developer. Glad for any interactions, offers, and etc.
 >   </i>
 > </p>
 
