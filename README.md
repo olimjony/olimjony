@@ -1,26 +1,59 @@
-# Welcome, I'm Olimjon =]
-<hr>
+# Hi, I'm Olimjon =]
 
-> <p>
->   <i>
->     My name is Olimjon, and I am a Fullstack, Devops, mainly Java developer. Glad for any interactions, offers, and etc.
->   </i>
-> </p>
+> Backend engineer specializing in **microservices & fintech** — I build production systems for banks in Tajikistan: card processing, merchant payments, and fault-tolerant data pipelines. Mainly **Java & Spring Boot**, comfortable across the full stack and into DevOps.
+>
+> Always happy to talk shop, collaborate, or hear about new opportunities — feel free to reach out below.
 
-<hr>
+- 🔭 Currently building fintech infrastructure at **Fardo** — card processing, payments, and log-processing pipelines
+- ⚡ I care about clean, event-driven architecture and reliable, fault-tolerant systems
+- 🌱 Going deeper on Kafka, observability, and Kubernetes
+- 💬 Ask me about Java, Spring Boot, microservices, or fintech backends
 
-<h3 align="left">Languages and Tools:</h3>
-<p>
-    <img src="https://skillicons.dev/icons?i=java,maven,gradle,postgres,mongodb,hibernate,spring,redis,bash" /><br>
-    <img src="https://skillicons.dev/icons?i=jenkins,docker,k8s,aws,grafana,prometheus,kafka,git,postman" /><br>
-    <img src="https://skillicons.dev/icons?i=debian,dotnet,js,react,vscode,cs,py,qt,vite" />
-</p>
+<br>
 
-<h3 align="left">Contacts:</h3>
-<p align="left">
-<img align="left" src="https://skillicons.dev/icons?i=gmail"/> 
-    <i> Gmail - tabarzodaolimjon@gmail.com </i>
-    <br/>
-    <i> Telegram - @olimjon04082004 </i>
-</p>
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,cs,ts,js,py,cpp" />
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate,postgres,mysql,redis,mongodb,kafka" />
+
+**DevOps & Infra**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,nginx,grafana,prometheus,bash" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,maven,gradle,postman,debian,vscode" />
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=olimjony&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="Olimjon's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olimjony&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=olimjony&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<br>
+
+## 🌐 Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tabarzodaolimjon@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/olimjon04082004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/olimjon-tabarzoda)
+
 </div>
