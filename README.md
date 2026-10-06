@@ -1,13 +1,13 @@
 # Hi, I'm Olimjon =]
 
-> Backend engineer specializing in **microservices & fintech** — I build production systems for banks in Tajikistan: card processing, merchant payments, and fault-tolerant data pipelines. Mainly **Java & Spring Boot**, comfortable across the full stack and into DevOps.
+> Backend engineer specializing in **microservices & fintech** — I build production systems for banks in Tajikistan: card processing, merchant payments, and fault-tolerant data pipelines. Mainly **.NET and ASP.NET Core**, comfortable across the full stack and into DevOps.
 >
 > Always happy to talk shop, collaborate, or hear about new opportunities — feel free to reach out below.
 
-- 🔭 Currently building fintech infrastructure at **Fardo** — card processing, payments, and log-processing pipelines
+- 🔭 Currently building fintech infrastructure at **IBT Tajikistan**.
 - ⚡ I care about clean, event-driven architecture and reliable, fault-tolerant systems
 - 🌱 Going deeper on Kafka, observability, and Kubernetes
-- 💬 Ask me about Java, Spring Boot, microservices, or fintech backends
+- 💬 Ask me about .NET, Java, Frontend, Spring Boot, microservices, or fintech backends
 
 <br>
 
